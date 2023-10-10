@@ -6,7 +6,19 @@ The basics of Go. To be used as a reference to look back on
 [![GitHub branches](https://badgen.net/github/branches/AndyDHaines/go-basics)](https://github.com/AndyDHaines/go-basics/) 
 [![GitHub latest commit](https://badgen.net/github/last-commit/AndyDHaines/go-basics)](https://github.com/AndyDHaines/go-basics/commits/)
 
-[Go homepage](https://go.dev/)
+## Go Homepage
+[Go](https://go.dev/)
+
+## Basics
+At a high level the term for a project within Go is a module. To initialise a new Go module there are two main steps
+
+1. Create a folder on disk where you want the module to live
+2. Run the following command from within the newly created folder
+
+```
+go mod init coolproject
+```
+
 
 
 
