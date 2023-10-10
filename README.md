@@ -7,7 +7,7 @@ The basics of Go. To be used as a reference to look back on
 [![GitHub latest commit](https://badgen.net/github/last-commit/AndyDHaines/go-basics)](https://github.com/AndyDHaines/go-basics/commits/)
 
 ## Go Homepage
-[Go](https://go.dev/)
+[https://go.dev/](https://go.dev/)
 
 ## Basics
 At a high level the term for a project within Go is a module. To initialise a new Go module there are two main steps
