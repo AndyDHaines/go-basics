@@ -26,6 +26,7 @@ func Add(a, b float64) float64 {
     return a + b
 }
 ```
+We start with the func keyword, followed by the function name, then the list of parameters in parens, then the return type/s
 
 
 
