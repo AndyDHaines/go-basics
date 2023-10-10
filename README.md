@@ -6,4 +6,9 @@ The basics of Go. To be used as a reference to look back on
 [![GitHub branches](https://badgen.net/github/branches/AndyDHaines/go-basics)](https://github.com/AndyDHaines/go-basics/) 
 [![GitHub latest commit](https://badgen.net/github/last-commit/AndyDHaines/go-basics)](https://github.com/AndyDHaines/go-basics/commits/)
 
+Go homepage
+```
+https://go.dev/
+```
+
 
