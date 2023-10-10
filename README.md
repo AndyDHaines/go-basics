@@ -16,7 +16,7 @@ At a high level the term for a project within Go is a module. To initialise a ne
 2. Run the following command from within the newly created folder
 
 ```
-go mod init coolproject
+go mod init MODULE_NAME
 ```
 
 
