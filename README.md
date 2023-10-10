@@ -19,6 +19,13 @@ At a high level the term for a project within Go is a module. To initialise a ne
 go mod init MODULE_NAME
 ```
 
+## Functions
+A function declaration looks like this
+```
+func Add(a, b float64) float64 {
+    return a + b
+}
+```
 
 
 
